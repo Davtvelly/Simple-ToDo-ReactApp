@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "comlete homework",
+      "isCompleted": false,
+      "description": "some desc"
+    },
+    {
+      "id": 2,
+      "title": "go for lunch",
+      "isCompleted": true,
+      "description": "some desc"
+    },
+    {
+      "id": 3,
+      "title": "go for driving",
+      "isCompleted": false,
+      "description": "some desc"
+    },
+    {
+      "id": 4,
+      "title": "go to swimming",
+      "isCompleted": false,
+      "description": "some desc"
+    },
+    {
+      "id": 5,
+      "title": "visit a friend",
+      "isCompleted": true,
+      "description": "some desc"
+    }
+   ]
